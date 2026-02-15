@@ -109,7 +109,7 @@ source venv/bin/activate      # Linux/macOS
 # venv\Scripts\activate       # Windows
 
 # 3. Clone backend repository
-git clone https://github.com/heema-1905/webhook-delivery-system.git webhook_delivery_be
+git clone https://github.com/heema-1905/webhook_delivery_be.git 
 cd webhook_delivery_be
 
 # 4. Install dependencies
